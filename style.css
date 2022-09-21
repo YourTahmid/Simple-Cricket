@@ -6,6 +6,7 @@
 
 .field{
     border: 1px solid #333;
+    height: 400px;
 
 }
 
@@ -15,8 +16,8 @@
     border-radius: 50%;
     background-color: red;
     position: relative;
-    left: 662px;
-    transition: transform 1s ease-out 0.2s;
+    left: 427px;
+    transition: transform 1s ease-out 0.3s;
 }
 
 .field:hover .ball{
@@ -25,5 +26,6 @@
 
 .bat{
     transition: transform 0.2s ease-in;
+    width: 300px;
 }
 
