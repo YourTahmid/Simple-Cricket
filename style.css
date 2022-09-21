@@ -29,3 +29,16 @@
     width: 300px;
 }
 
+.he{ 
+    position: relative;
+    top: 10px;
+    left: 450px;
+
+}
+
+.foot{
+    position: relative;
+    top: 20px;
+    left: 545px;
+}
+
